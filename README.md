@@ -13,9 +13,10 @@ A 2D top-down stealth grid-based game built in **C++** using the **SFML** librar
 
 ## Screenshots
 
-*(Screenshots will be added here!)*
-<!-- Add your screenshot to assets/ and link it here: -->
-<!-- ![Gameplay](assets/screenshot.png) -->
+![Menu](assets/Menu.png)
+![In game](assets/In%20game.png)
+![Gate appeared](assets/Gate%20appeared.png)
+![Ending Screen](assets/Ending%20Screen.png)
 
 ## Prerequisites
 
