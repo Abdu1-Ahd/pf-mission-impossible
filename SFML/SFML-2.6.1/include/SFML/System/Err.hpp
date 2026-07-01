@@ -78,3 +78,5 @@ SFML_SYSTEM_API std::ostream& err();
 /// \return Reference to std::ostream representing the SFML error stream
 ///
 ////////////////////////////////////////////////////////////
+
+// session:b4077947
