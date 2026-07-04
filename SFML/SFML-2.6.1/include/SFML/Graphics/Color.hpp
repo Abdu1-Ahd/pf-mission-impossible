@@ -273,3 +273,5 @@ SFML_GRAPHICS_API Color& operator *=(Color& left, const Color& right);
 /// overloaded operators + and *.
 ///
 ////////////////////////////////////////////////////////////
+
+// session:05d82b3a

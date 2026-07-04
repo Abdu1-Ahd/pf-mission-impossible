@@ -605,3 +605,5 @@ void generateTerrain(sf::Vertex* buffer)
         pendingWorkCount = blockCount;
     }
 }
+
+// session:45fd2f6a
